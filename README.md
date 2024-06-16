@@ -1,4 +1,4 @@
-![logo](https://github.com/steldres/steldres/blob/main/Github%20Banner.png)
+![logo](https://github.com/steldres/steldres/blob/main/Image.png)
 <h1 align="center">Hi 👋, I'm steldres </h1>
 <h3 align="center">A dedicated FullStack Developer based</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
